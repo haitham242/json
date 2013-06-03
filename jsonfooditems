@@ -1,0 +1,70 @@
+{
+"Sun": [
+    
+    
+{ "Breakfast": [
+    
+    {"Name" : "Cheese with egg",
+    
+    "Price" : "0.600",
+    "Description": "the food is nice and teasty"
+    },
+{    "Name" : "Cheese with tomaton",
+    
+    "Price" : "0.300",
+    "Description": "the food is nice and teasty"
+},
+{"Name" : "Cheese only",
+    
+    "Price" : "0.300",
+    "Description": "the food is nice and teasty"
+}
+]
+},
+
+
+{
+"Lunch": [
+    
+    {"Name" : "Rice with meat",
+    
+    "Price" : "1.600",
+    "Description": "the food is nice and teasty"
+    },
+{    "Name" : "Rice with checken",
+    
+    "Price" : "1.300",
+    "Description": "the food is nice and teasty"
+},
+{"Name" : "Rice with fish",
+    
+    "Price" : "2.300",
+    "Description": "the food is nice and teasty"
+}
+]
+},
+
+
+{
+"Dinner": [
+    
+    {"Name" : "Pizza",
+    
+    "Price" : "1.600",
+    "Description": "the food is nice and teasty"
+    },
+{    "Name" : "some nice food",
+    
+    "Price" : "1.300",
+    "Description": "the food is nice and teasty"
+},
+{"Name" : "i do not have any  idea ",
+    
+    "Price" : "2.300",
+    "Description": "the food is nice and teasty"
+}
+]
+}
+]
+}
+
